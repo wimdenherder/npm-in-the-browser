@@ -1,3 +1,8 @@
+# Run NPM packages in the developers console in the browser
+
+Great for testing, for example with cheerio (in this example). 
+Just replace it with another package and install the package and run it again, to update the bundle!
+
 # Installation
 
 `npm install`  
@@ -12,4 +17,4 @@ document.body.appendChild(script);
 
 # Blog
 
-You can read my blog here: [bla](https://dev.to/wimdenherder/run-npm-packages-in-developers-console-on-any-site-2a78)
+You can read my blog here: [Run NPM packages in the developers console](https://dev.to/wimdenherder/run-npm-packages-in-developers-console-on-any-site-2a78)
